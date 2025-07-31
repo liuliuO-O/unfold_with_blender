@@ -41,6 +41,5 @@ Unfold with blender/
 │  unfold_operator.py       # 展开操作逻辑
 │
 ├─obj                       # obj测试文件
-├─pdf                       # pdf导出文件
-└─__pycache__
+└─pdf                       # pdf导出文件
 ```
